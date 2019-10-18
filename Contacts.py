@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 12 22:29:12 2019
-
-@author: RAHUL
-"""
-
+#Program of phone contacts
 Dict = {'name' : '', 'phone' : ''}
  
 def add():
